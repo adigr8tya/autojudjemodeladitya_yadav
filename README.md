@@ -97,7 +97,7 @@ The app runs completely locally; no hosting is required.
 
 ## Demo Video
 Demo Video Link:
-
+https://drive.google.com/file/d/14eovPqWd9CKkVvWfunXLQRMN4T4kWXbF/view?usp=sharing
 
 The demo video shows:
 - Brief project explanation
